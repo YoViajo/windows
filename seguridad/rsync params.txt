@@ -1,0 +1,1 @@
+--exclude-from='C:\Users\rcrmj\Downloads\a\excluir-dirs.txt'

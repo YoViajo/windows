@@ -1,0 +1,1 @@
+FOR %%A IN (*.tif) DO ECHO %%A
